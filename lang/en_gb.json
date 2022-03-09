@@ -1,0 +1,11 @@
+{
+  "menu.singleplayer": "Singleplayer",
+  "menu.multiplayer": "Multiplayer",
+  "gui.done": "Done",
+  "gui.cancel": "Cancel",
+  "options.on": "ON",
+  "options.off": "OFF",
+  "options.generic_value": "%s: %s",
+  "options.off.composed": "%s: OFF",
+  "options.on.composed": "%s: ON"
+}

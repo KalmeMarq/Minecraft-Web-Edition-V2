@@ -1,0 +1,24 @@
+{
+  "language": {
+    "en_us": {
+      "region": "US",
+      "name": "English",
+      "bidirectional": false
+    },
+    "en_gb": {
+      "region": "United Kingdom",
+      "name": "English",
+      "bidirectional": false
+    },
+    "pt_pt": {
+      "region": "Portugal",
+      "name": "Português",
+      "bidirectional": false
+    },
+    "pt_br": {
+      "region": "Brasil",
+      "name": "Português",
+      "bidirectional": false
+    }
+  }
+}
