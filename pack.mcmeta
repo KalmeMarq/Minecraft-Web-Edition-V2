@@ -1,5 +1,10 @@
 {
   "language": {
+    "de_de": {
+      "region": "Deutschland",
+      "name": "Deutsch",
+      "bidirectional": false
+    },
     "en_us": {
       "region": "US",
       "name": "English",
@@ -8,6 +13,21 @@
     "en_gb": {
       "region": "United Kingdom",
       "name": "English",
+      "bidirectional": false
+    },
+    "es_es": {
+      "region": "España",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_mx": {
+      "region": "México",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "fr_fr": {
+      "region": "France",
+      "name": "Français",
       "bidirectional": false
     },
     "pt_pt": {
