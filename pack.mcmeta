@@ -1,12 +1,112 @@
 {
   "language": {
-    "de_de": {
-      "region": "Deutschland",
-      "name": "Deutsch",
-      "bidirectional": false
-    },
     "en_us": {
       "region": "US",
+      "name": "English",
+      "bidirectional": false
+    },
+    "af_za": {
+      "region": "Suid-Afrika",
+      "name": "Afrikaans",
+      "bidirectional": false
+    },
+    "sq_al": {
+      "region": "Shqipëri",
+      "name": "Shqip",
+      "bidirectional": false
+    },
+    "esan": {
+      "region": "Andaluçía",
+      "name": "Andalûh",
+      "bidirectional": false
+    },
+    "enp": {
+      "region": "Foroned Kingdom",
+      "name": "Anglish",
+      "bidirectional": false
+    },
+    "ast_es": {
+      "region": "Asturies",
+      "name": "Asturianu",
+      "bidirectional": false
+    },
+    "az_az": {
+      "region": "Azərbaycan",
+      "name": "Azərbaycanca",
+      "bidirectional": false
+    },
+    "eu_es": {
+      "region": "Euskal Herria",
+      "name": "Euskara",
+      "bidirectional": false
+    },
+    "bar": {
+      "region": "Bayern",
+      "name": "Boarisch",
+      "bidirectional": false
+    },
+    "bs_ba": {
+      "region": "Bosna i Hercegovina",
+      "name": "Bosanski",
+      "bidirectional": false
+    },
+    "brb": {
+      "region": "Braobant",
+      "name": "Braobans",
+      "bidirectional": false
+    },
+    "br_fr": {
+      "region": "Breizh",
+      "name": "Brezhoneg",
+      "bidirectional": false
+    },
+    "ca_es": {
+      "region": "Catalunya",
+      "name": "Català",
+      "bidirectional": false
+    },
+    "kw_gb": {
+      "region": "Kernow",
+      "name": "Kernewek",
+      "bidirectional": false
+    },
+    "cs_cz": {
+      "region": "Česko",
+      "name": "Čeština",
+      "bidirectional": false
+    },
+    "da_dk": {
+      "region": "Danmark",
+      "name": "Dansk",
+      "bidirectional": false
+    },
+    "nl_nl": {
+      "region": "Nederland",
+      "name": "Nederlands",
+      "bidirectional": false
+    },
+    "nl_be": {
+      "region": "België",
+      "name": "Vlaams",
+      "bidirectional": false
+    },
+    "ovd": {
+      "region": "Swerre",
+      "name": "Övdalska",
+      "bidirectional": false
+    },
+    "en_au": {
+      "region": "Australia",
+      "name": "English",
+      "bidirectional": false
+    },
+    "en_ca": {
+      "region": "Canada",
+      "name": "English",
+      "bidirectional": false
+    },
+    "en_nz": {
+      "region": "New Zealand",
       "name": "English",
       "bidirectional": false
     },
@@ -15,19 +115,209 @@
       "name": "English",
       "bidirectional": false
     },
-    "es_es": {
-      "region": "España",
-      "name": "Español",
+    "eo_uy": {
+      "region": "Esperantujo",
+      "name": "Esperanto",
       "bidirectional": false
     },
-    "es_mx": {
-      "region": "México",
-      "name": "Español",
+    "et_ee": {
+      "region": "Eesti",
+      "name": "Eesti keel",
+      "bidirectional": false
+    },
+    "fo_fo": {
+      "region": "Føroyar",
+      "name": "Føroyskt",
+      "bidirectional": false
+    },
+    "fil_ph": {
+      "region": "Pilipinas",
+      "name": "Filipino",
+      "bidirectional": false
+    },
+    "fi_fi": {
+      "region": "Suomi",
+      "name": "Suomi",
+      "bidirectional": false
+    },
+    "fra_de": {
+      "region": "Franggn",
+      "name": "Fränggisch",
       "bidirectional": false
     },
     "fr_fr": {
       "region": "France",
       "name": "Français",
+      "bidirectional": false
+    },
+    "fr_ca": {
+      "region": "Canada",
+      "name": "Français",
+      "bidirectional": false
+    },
+    "fy_nl": {
+      "region": "Fryslân",
+      "name": "Frysk",
+      "bidirectional": false
+    },
+    "fur_it": {
+      "region": "Friûl",
+      "name": "Furlan",
+      "bidirectional": false
+    },
+    "gl_es": {
+      "region": "Galicia / Galiza",
+      "name": "Galego",
+      "bidirectional": false
+    },
+    "de_de": {
+      "region": "Deutschland",
+      "name": "Deutsch",
+      "bidirectional": false
+    },
+    "de_at": {
+      "region": "Österreich",
+      "name": "Deitsch",
+      "bidirectional": false
+    },
+    "de_ch": {
+      "region": "Schwiiz",
+      "name": "Schwiizerdütsch",
+      "bidirectional": false
+    },
+    "hu_hu": {
+      "region": "Magyarország",
+      "name": "Magyar",
+      "bidirectional": false
+    },
+    "is_is": {
+      "region": "Ísland",
+      "name": "Íslenska",
+      "bidirectional": false
+    },
+    "io_en": {
+      "region": "Idia",
+      "name": "Ido",
+      "bidirectional": false
+    },
+    "ig_ng": {
+      "region": "Naigeria",
+      "name": "Igbo",
+      "bidirectional": false
+    },
+    "id_id": {
+      "region": "Indonesia",
+      "name": "Bahasa Indonesia",
+      "bidirectional": false
+    },
+    "isv": {
+      "region": "Slovjanščina",
+      "name": "Medžuslovjansky",
+      "bidirectional": false
+    },
+    "ga_ie": {
+      "region": "Éire",
+      "name": "Gaeilge",
+      "bidirectional": false
+    },
+    "it_it": {
+      "region": "Italia",
+      "name": "Italiano",
+      "bidirectional": false
+    },
+    "tlh_aa": {
+      "region": "tlhIngan wo'",
+      "name": "tlhIngan Hol",
+      "bidirectional": false
+    },
+    "la_la": {
+      "region": "Latium",
+      "name": "Latina",
+      "bidirectional": false
+    },
+    "lv_lv": {
+      "region": "Latvija",
+      "name": "Latviešu",
+      "bidirectional": false
+    },
+    "li_li": {
+      "region": "Limburg",
+      "name": "Limburgs",
+      "bidirectional": false
+    },
+    "lt_lt": {
+      "region": "Lietuva",
+      "name": "Lietuvių",
+      "bidirectional": false
+    },
+    "jbo_en": {
+      "region": "la jbogu'e",
+      "name": "la .lojban.",
+      "bidirectional": false
+    },
+    "lol_us": {
+      "region": "Kingdom of Cats",
+      "name": "LOLCAT",
+      "bidirectional": false
+    },
+    "lmo": {
+      "region": "Lombardia",
+      "name": "Lombard",
+      "bidirectional": false
+    },
+    "nds_de": {
+      "region": "Düütschland",
+      "name": "Plattdüütsch",
+      "bidirectional": false
+    },
+    "lb_lu": {
+      "region": "Lëtzebuerg",
+      "name": "Lëtzebuergesch",
+      "bidirectional": false
+    },
+    "mk_mk": {
+      "region": "Македонија",
+      "name": "Македонски",
+      "bidirectional": false
+    },
+    "ms_my": {
+      "region": "Malaysia",
+      "name": "Bahasa Melayu",
+      "bidirectional": false
+    },
+    "mt_mt": {
+      "region": "Malta",
+      "name": "Malti",
+      "bidirectional": false
+    },
+    "se_no": {
+      "region": "Sápmi",
+      "name": "Davvisámegiella",
+      "bidirectional": false
+    },
+    "no_no": {
+      "region": "Norge",
+      "name": "Norsk bokmål",
+      "bidirectional": false
+    },
+    "nn_no": {
+      "region": "Noreg",
+      "name": "Norsk nynorsk",
+      "bidirectional": false
+    },
+    "oc_fr": {
+      "region": "Occitània",
+      "name": "Occitan",
+      "bidirectional": false
+    },
+    "en_pt": {
+      "region": "The Seven Seas",
+      "name": "Pirate Speak",
+      "bidirectional": false
+    },
+    "pl_pl": {
+      "region": "Polska",
+      "name": "Polski",
       "bidirectional": false
     },
     "pt_pt": {
@@ -38,6 +328,136 @@
     "pt_br": {
       "region": "Brasil",
       "name": "Português",
+      "bidirectional": false
+    },
+    "qya_aa": {
+      "region": "Arda",
+      "name": "Quenya",
+      "bidirectional": false
+    },
+    "ksh": {
+      "region": "Rhingland",
+      "name": "Kölsch/Ripoarisch",
+      "bidirectional": false
+    },
+    "ro_ro": {
+      "region": "România",
+      "name": "Română",
+      "bidirectional": false
+    },
+    "gd_gb": {
+      "region": "Alba",
+      "name": "Gàidhlig",
+      "bidirectional": false
+    },
+    "enws": {
+      "region": "Kingdom of England",
+      "name": "Shakespearean English",
+      "bidirectional": false
+    },
+    "szl": {
+      "region": "Gōrny Ślōnsk",
+      "name": "Ślōnskŏ",
+      "bidirectional": false
+    },
+    "sk_sk": {
+      "region": "Slovensko",
+      "name": "Slovenčina",
+      "bidirectional": false
+    },
+    "sl_si": {
+      "region": "Slovenija",
+      "name": "Slovenščina",
+      "bidirectional": false
+    },
+    "so_so": {
+      "region": "Soomaaliya",
+      "name": "Soomaali",
+      "bidirectional": false
+    },
+    "es_es": {
+      "region": "España",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_ar": {
+      "region": "Argentina",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_cl": {
+      "region": "Chile",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_ec": {
+      "region": "Ecuador",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_mx": {
+      "region": "México",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_uy": {
+      "region": "Uruguay",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "es_ve": {
+      "region": "Venezuela",
+      "name": "Español",
+      "bidirectional": false
+    },
+    "sv_se": {
+      "region": "Sverige",
+      "name": "Svenska",
+      "bidirectional": false
+    },
+    "tl_ph": {
+      "region": "Pilipinas",
+      "name": "Tagalog",
+      "bidirectional": false
+    },
+    "tt_ru": {
+      "region": "Рәсәй",
+      "name": "Татарча",
+      "bidirectional": false
+    },
+    "tok": {
+      "region": "ma pona",
+      "name": "toki pona",
+      "bidirectional": false
+    },
+    "tr_tr": {
+      "region": "Türkiye",
+      "name": "Türkçe",
+      "bidirectional": false
+    },
+    "sxu": {
+      "region": "Saggsn",
+      "name": "Säggs'sch",
+      "bidirectional": false
+    },
+    "val_es": {
+      "region": "Comunitat Valenciana",
+      "name": "Català (Valencià)",
+      "bidirectional": false
+    },
+    "vec_it": {
+      "region": "Veneto",
+      "name": "Vèneto",
+      "bidirectional": false
+    },
+    "cy_gb": {
+      "region": "Cymru",
+      "name": "Cymraeg",
+      "bidirectional": false
+    },
+    "yo_ng": {
+      "region": "Nàìjíríà",
+      "name": "Yorùbá",
       "bidirectional": false
     }
   }
